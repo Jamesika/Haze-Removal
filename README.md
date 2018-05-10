@@ -1,1 +1,1 @@
-# Haze-Removal
+# HazeRemoval
